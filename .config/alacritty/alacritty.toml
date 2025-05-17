@@ -1,0 +1,22 @@
+[font]
+size=10.0
+
+[font.normal]
+family = "CommitMono Nerd Font Mono"
+style = "Regular"
+
+[font.italic]
+family = "CommitMono Nerd Font Mono"
+style = "Italic"
+
+[font.bold]
+family = "CommitMono Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "CommitMono Nerd Font Mono"
+style = "Bold Italic"
+
+[window.padding]
+x = 5
+y = 5

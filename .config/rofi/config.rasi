@@ -1,0 +1,9 @@
+configuration {
+	combi-modes: "drun,power:~/.config/polybar/powermenu.sh,run";
+	modes: "drun,run,window,powermenu:~/.config/polybar/powermenu.sh";
+	show-icons: true;
+	display-drun: "app";
+	display-run: "cmd";
+	display-combi: "launch";
+}
+@theme "/home/hmukesh/.local/share/rofi/themes/squared-everforest.rasi"
